@@ -1,0 +1,13 @@
+﻿  main.c
+c:\users\moham\documents\mywork\ubc\cnn_in_c\cnn_try1\cnn_try1\main.c(30): warning C4090: 'function': different 'const' qualifiers
+c:\users\moham\documents\mywork\ubc\cnn_in_c\cnn_try1\cnn_try1\main.c(32): warning C4090: 'function': different 'const' qualifiers
+c:\users\moham\documents\mywork\ubc\cnn_in_c\cnn_try1\cnn_try1\main.c(46): warning C4090: 'function': different 'const' qualifiers
+c:\users\moham\documents\mywork\ubc\cnn_in_c\cnn_try1\cnn_try1\main.c(71): warning C4090: 'function': different 'const' qualifiers
+c:\users\moham\documents\mywork\ubc\cnn_in_c\cnn_try1\cnn_try1\main.c(85): warning C4090: 'function': different 'const' qualifiers
+c:\users\moham\documents\mywork\ubc\cnn_in_c\cnn_try1\cnn_try1\main.c(110): warning C4090: 'function': different 'const' qualifiers
+c:\users\moham\documents\mywork\ubc\cnn_in_c\cnn_try1\cnn_try1\main.c(124): warning C4090: 'function': different 'const' qualifiers
+c:\users\moham\documents\mywork\ubc\cnn_in_c\cnn_try1\cnn_try1\main.c(144): warning C4090: 'function': different 'const' qualifiers
+c:\users\moham\documents\mywork\ubc\cnn_in_c\cnn_try1\cnn_try1\main.c(145): warning C4090: 'function': different 'const' qualifiers
+c:\users\moham\documents\mywork\ubc\cnn_in_c\cnn_try1\cnn_try1\main.c(155): warning C4090: 'function': different 'const' qualifiers
+c:\users\moham\documents\mywork\ubc\cnn_in_c\cnn_try1\cnn_try1\main.c(156): warning C4090: 'function': different 'const' qualifiers
+  CNN_try1.vcxproj -> C:\Users\moham\Documents\MyWork\UBC\CNN_in_C\CNN_try1\Debug\CNN_try1.exe
