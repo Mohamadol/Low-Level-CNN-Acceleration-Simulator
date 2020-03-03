@@ -29,25 +29,25 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="fcn.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="fcn_test.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="cnn.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="cnn_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="pooling.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="pooling_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="relu.h">
+    <ClInclude Include="layers\cnn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="layers\fcn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="layers\pooling.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="layers\relu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

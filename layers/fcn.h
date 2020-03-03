@@ -14,10 +14,12 @@ typedef struct {
 	double *output;
 	int input_size;
 	int outputs_size;
+	char reorder;
+	int *reorder_sizes;
 }fcn;
 
 //Function Declartion
-fcn * fcn_init(int input_size, int output_size, double *input, double *weights, double *bias);
+fcn * fcn_init(int input_size, int output_size, double *input, double *weights, double *bias, char reorder, int * reorder_sizes);
 void fcn_process(fcn *layer);
 
 
